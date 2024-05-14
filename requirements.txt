@@ -1,0 +1,10 @@
+numpy
+supervision
+ultralytics
+requests
+Pillow
+opencv-python
+torch
+pandas
+mss
+pafy
