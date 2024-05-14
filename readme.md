@@ -41,3 +41,5 @@ As instruções específicas de implantação dependerão da opção escolhida. 
 ## Contribuindo
 
 Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar uma solicitação de pull request neste repositório.
+Créditos especiais para o Dr. Dheiver Francisco Santos pela contribuição para o desenvolvimento deste projeto.
+
